@@ -10,3 +10,4 @@ main application works as expected. The results of these tests are saved to a
 JUnit XML report.
 
 test
+мамамылараму
